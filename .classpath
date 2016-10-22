@@ -2,5 +2,14 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/cdi-api.jar"/>
+	<classpathentry kind="lib" path="libs/creditVerifSystem.jar"/>
+	<classpathentry kind="lib" path="libs/jess.jar"/>
+	<classpathentry kind="lib" path="libs/junit.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="libs/rulesencoding.jar"/>
+	<classpathentry kind="lib" path="libs/rulesengine.jar"/>
+	<classpathentry kind="lib" path="libs/javax.faces-api-2.2.jar"/>
+	<classpathentry kind="lib" path="libs/javax.inject-1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
